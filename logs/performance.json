@@ -1,0 +1,15 @@
+{"episode": 0, "win_rate": {"attacker": 0.0, "defender": 100.0}, "time": 1781768053.3951538}
+{"episode": 0, "win_rate": {"attacker": 0.0, "defender": 100.0}, "time": 1781768680.2905147}
+{"episode": 50, "win_rate": {"attacker": 49.01960784313725, "defender": 50.98039215686274}, "time": 1781774901.221424}
+{"episode": 0, "win_rate": {"attacker": 100.0, "defender": 0.0}, "time": 1781778476.4333026}
+{"episode": 50, "win_rate": {"attacker": 29.411764705882355, "defender": 70.58823529411765}, "time": 1781785687.7525022}
+{"episode": 100, "win_rate": {"attacker": 28.999999999999996, "defender": 71.0}, "time": 1781794467.3120754}
+{"episode": 150, "win_rate": {"attacker": 30.0, "defender": 70.0}, "time": 1781805756.6412258}
+{"episode": 200, "win_rate": {"attacker": 34.0, "defender": 66.0}, "time": 1781816858.520074}
+{"episode": 250, "win_rate": {"attacker": 43.0, "defender": 56.99999999999999}, "time": 1781828309.4218159}
+{"episode": 300, "win_rate": {"attacker": 43.0, "defender": 56.99999999999999}, "time": 1781839613.6923578}
+{"episode": 350, "win_rate": {"attacker": 39.0, "defender": 61.0}, "time": 1781850755.0743134}
+{"episode": 400, "win_rate": {"attacker": 38.0, "defender": 62.0}, "time": 1781860405.4155352}
+{"episode": 450, "win_rate": {"attacker": 36.0, "defender": 64.0}, "time": 1781871650.6611924}
+{"episode": 500, "win_rate": {"attacker": 39.0, "defender": 61.0}, "time": 1781882093.1026607}
+{"episode": 550, "win_rate": {"attacker": 35.0, "defender": 65.0}, "time": 1781892187.5712943}
