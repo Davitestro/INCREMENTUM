@@ -1,4 +1,3 @@
-# training/metrics_logger.py
 import json
 from collections import deque
 import numpy as np
@@ -19,7 +18,6 @@ class MetricsLogger:
         self.attacker_rewards.append(results['attacker_reward'])
         self.defender_rewards.append(results['defender_reward'])
         
-        # Определение победителя
         if results['attacker_reward'] > results['defender_reward']:
             self.attacker_wins.append(1)
             self.defender_wins.append(0)
@@ -27,7 +25,6 @@ class MetricsLogger:
             self.attacker_wins.append(0)
             self.defender_wins.append(1)
         
-        # Лучшая награда
         avg_reward = (results['attacker_reward'] + results['defender_reward']) / 2
         if avg_reward > self.best_reward:
             self.best_reward = avg_reward
